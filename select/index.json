@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Ask Me Why (Remastered 2009)",
+  "base_artist": "The Beatles",
+  "createdAt": "2026-03-10T14:51:35.118024Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Don't Ask Me Why (Remastered Version)",
+      "artist": "Eurythmics",
+      "has_synced": true,
+      "path": "select/01_Don't_Ask_Me_Why_(Remastered_Version)_Eurythmics.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ask Me Why (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/02_Ask_Me_Why_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "DON'T ASK ME WHY (REMASTERED)",
+      "artist": "ELVIS PRESLEY",
+      "has_synced": false,
+      "path": "select/03_DON'T_ASK_ME_WHY_(REMASTERED)_ELVIS_PRESLEY.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Don't Ask Me Why (Remastered)",
+      "artist": "Billy Joel",
+      "has_synced": true,
+      "path": "select/04_Don't_Ask_Me_Why_(Remastered)_Billy_Joel.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Don't Ask Me Why (Remastered)",
+      "artist": "Eurythmics",
+      "has_synced": false,
+      "path": "select/05_Don't_Ask_Me_Why_(Remastered)_Eurythmics.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ask Me Why (Remastered)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/06_Ask_Me_Why_(Remastered)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ask Me Why - Remastered 2009",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/07_Ask_Me_Why_-_Remastered_2009_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Don't Ask Me Why - Remastered Version",
+      "artist": "Eurythmics",
+      "has_synced": true,
+      "path": "select/08_Don't_Ask_Me_Why_-_Remastered_Version_Eurythmics.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Don't Ask Me Why (Remastered)",
+      "artist": "Eurythmics",
+      "has_synced": true,
+      "path": "select/09_Don't_Ask_Me_Why_(Remastered)_Eurythmics.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ask Me Why (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/10_Ask_Me_Why_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "DON'T ASK ME WHY (REMASTERED)",
+      "artist": "EURYTHMICS, ANNIE LENNOX & DAVE STEWART",
+      "has_synced": true,
+      "path": "select/11_DON'T_ASK_ME_WHY_(REMASTERED)_EURYTHMICS,_ANNIE_LENNOX_&_DAVE_STEWART.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Don't Ask Me Why (Remastered)",
+      "artist": "Eurythmics, Annie Lennox, Dave Stewart",
+      "has_synced": true,
+      "path": "select/12_Don't_Ask_Me_Why_(Remastered)_Eurythmics,_Annie_Lennox,_Dave_Stewart.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Don't Ask Me Why (Remastered)",
+      "artist": "Frank Sinatra & Elvis Presley",
+      "has_synced": false,
+      "path": "select/13_Don't_Ask_Me_Why_(Remastered)_Frank_Sinatra_&_Elvis_Presley.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ASK ME WHY",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/pl_01_ASK_ME_WHY_The_Beatles.txt"
+    }
+  ]
+}
