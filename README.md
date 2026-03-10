@@ -1,0 +1,37 @@
+# The Beatles – Ask Me Why (Remastered 2009)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:02.77] I love you, 'cause you tell me things I want to know
+[00:09.38] And it's true that it really only goes to show
+[00:15.44] That I know that I, I, I, I
+[00:20.77] Should never, never, never be blue
+[00:37.77] 
+[00:25.47] Now you're mine, my happiness still makes me cry
+[00:32.08] And in time, you'll understand the reason why
+[00:39.14] If I cry, it's not because I'm sad
+[00:43.63] But you're the only love that I've ever had
+[01:05.13] 
+[00:48.18] I can't believe it's happened to me
+[00:55.76] I can't conceive of any more misery
+[01:13.26] 
+[01:02.82] Ask me why, I'll say I love you
+[01:06.77] And I'm always thinking of you
+[01:21.77] 
+[01:13.02] I love you, 'cause you tell me things I want to know
+[01:20.96] And it's true that it really only goes to show
+[01:27.20] That I know that I, I, I, I
+[01:32.37] Should never, never, never be blue
+[01:49.37] 
+[01:37.23] Ask me why, I'll say I love you
+[01:41.16] And I'm always thinking of you
+[01:56.16] 
+[01:47.86] I can't believe it's happened to me
+[01:55.11] I can't conceive of any more misery
+[02:12.61] 
+[02:02.39] Ask me why, I'll say I love you
+[02:06.23] And I'm always thinking of you
+[02:11.92] You
+[02:15.48] You
+```
